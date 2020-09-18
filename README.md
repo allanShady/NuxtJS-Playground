@@ -1,2 +1,3 @@
-# nuxt-sample
-Practice building app with nuxtJs
+### [NuxtJS](https://nuxtjs.org/guides/get-started/installatio)
+
+NuxtJS pratices
